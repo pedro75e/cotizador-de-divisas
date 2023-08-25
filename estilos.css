@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(237, 243, 241);
+}
+
+.container{
+    background-color: rgb(237, 243, 241);
+    height: auto;
+    border: 1px solid rgba(63, 58, 58, 0.2);
+    box-shadow: 2px 2px rgba(63, 58, 58, 0.2);
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.title{
+    color:darkcyan;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+input{
+    border-bottom: 1px solid rgba(63, 58, 58, 0.2);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: transparent;
+    box-shadow:0px 5px 0px rgba(63, 58, 58, 0.2);
+    margin-bottom: 50px;
+    width: 150px;
+}
+
+p{
+    margin-bottom: 50px;
+}
+
+.total{
+    font-size: 20px;
+}
+
+.boton{
+    color: darkcyan;
+    border: 1px solid rgb(208, 211, 210);
+    box-shadow: 2px 2px rgba(63, 58, 58, 0.2);
+    font-weight: bold;
+    width: 150px;
+}
+
+.boton:hover{
+    color: darkmagenta;
+}
+
+.card{
+    background-color: transparent!important;
+    border-bottom: 1px solid rgba(63, 58, 58, 0.2);
+    box-shadow:0px 5px 5px rgba(63, 58, 58, 0.2);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.valor{
+    color: darkcyan!important;
+}
